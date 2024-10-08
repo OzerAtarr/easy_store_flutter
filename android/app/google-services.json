@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909777459549",
+    "project_id": "easy-stor3",
+    "storage_bucket": "easy-stor3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909777459549:android:52401b0d57ca079dd670b4",
+        "android_client_info": {
+          "package_name": "com.oa.easystore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyZobd-fDXxkV36HO90qdOUAiVLNJk2SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
